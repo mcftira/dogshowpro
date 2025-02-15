@@ -1,1 +1,0 @@
-// Component removed as part of localization removal
