@@ -21,4 +21,4 @@ function AnimatedShapes() {
   });
 
   const shapes = [
-    { geometry: new THREE.TorusGeometry
+    { geometry: new THREE.TorusGeometry }
