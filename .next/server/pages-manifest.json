@@ -1,0 +1,10 @@
+{
+  "/_error": "pages/_error.js",
+  "/auth/callback": "pages/auth/callback.js",
+  "/auth/login": "pages/auth/login.js",
+  "/auth/register": "pages/auth/register.js",
+  "/dashboard": "pages/dashboard.js",
+  "/home": "pages/home.js",
+  "/organize": "pages/organize.js",
+  "/shop": "pages/shop.js"
+}
